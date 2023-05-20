@@ -1,0 +1,15 @@
+ticketing system
+functions(
+get name
+choose genre
+movie name
+quantity
+choose time and date
+choose seats
+snack and drinks
+quantity of snacks and drinks
+display price
+enter the payment
+calculate
+give the change
+give a receipt with the costumer id)

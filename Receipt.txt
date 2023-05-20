@@ -1,0 +1,126 @@
+------------------RECEIPT ID NO. 88346521---------------
+                            Date: 2023-05-17 11:43:47
+NAME          : Jayson Asiado
+MOVIE         : Ticket x3 Your Lie in April - total: 900₱
+DATE and TIME : Tuesday 8:00am - 10:30am
+SEAT          : A1
+SNACKS        : Chocolates x2 - total: 90₱
+DRINKS        : NONE x2 - total: 0₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 990₱
+CASH          : 1,000₱
+CHANGE        : 10₱
+------------THANK YOU AND ENJOY THE SHOW!!--------
+
+------------------RECEIPT ID NO. 88678588------------------
+                            Date: 2023-05-17 11:47:20
+NAME          : Sfdew
+MOVIE         : Ticket x3 Dragon Ball Super: Super Hero - total: 600₱
+DATE and TIME : Wednesday 8:00am - 10:30am
+SEAT          : A1
+SNACKS        : NONE x0 - total: 0₱
+DRINKS        : NONE x0 - total: 0₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 600₱
+CASH          : 1,000₱
+CHANGE        : 400₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
+------------------RECEIPT ID NO. 88102105105------------------
+                            Date: 2023-05-17 11:56:17
+NAME          : Dewd
+MOVIE         : Ticket x1 Jujutsu Kaisen 0: The Movie - total: 240₱
+DATE and TIME : Monday 8:00am - 10:30am
+SEAT          : A1
+SNACKS        : NONE x0 - total: 0₱
+DRINKS        : NONE x0 - total: 0₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 240₱
+CASH          : 500₱
+CHANGE        : 260₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
+------------------RECEIPT ID NO. 81010724109------------------
+                            Date: 2023-05-17 12:02:58
+NAME          : Dwd
+MOVIE         : Ticket x2 Rascal Does Not Dream of Bunny Girl Senpai - total: 1,000₱
+DATE and TIME : Monday 2:00pm - 3:40pm
+SEAT          : A2
+SNACKS        : Chips x3 - total: 105₱
+DRINKS        : NONE x3 - total: 0₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 1,105₱
+CASH          : 1,200₱
+CHANGE        : 95₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
+------------------RECEIPT ID NO. 88751584------------------
+                            Date: 2023-05-18 07:40:09
+NAME          : Jayson
+MOVIE         : Ticket x3 The Promised Neverland - total: 600₱
+DATE and TIME : Tuesday 2:00pm - 3:40pm
+SEAT          : A1
+SNACKS        : NONE x0 - total: 0₱
+DRINKS        : Coke x0 - total: 105₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 705₱
+CASH          : 800₱
+CHANGE        : 95₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
+------------------RECEIPT ID NO. 88398828------------------
+                            Date: 2023-05-18 07:48:19
+NAME          : Dsf
+MOVIE         : Ticket x1 Jujutsu Kaisen 0: The Movie - total: 240₱
+DATE and TIME : Monday 8:00am - 10:30am
+SEAT          : A1
+SNACKS        : Pop-corn x5 - total: 250₱
+DRINKS        : Coke x1 - total: 35₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 525₱
+CASH          : 600₱
+CHANGE        : 75₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
+------------------RECEIPT ID NO. 88496755------------------
+                            Date: 2023-05-18 07:53:49
+NAME          : Fgf
+MOVIE         : Ticket x1 Jujutsu Kaisen 0: The Movie - total: 240₱
+DATE and TIME : Monday 8:00am - 10:30am
+SEAT          : A1
+SNACKS        : NONE x0 - total: 0₱
+DRINKS        : Coke x2 - total: 70₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 310₱
+CASH          : 500₱
+CHANGE        : 190₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
+------------------RECEIPT ID NO. 887410554------------------
+                            Date: 2023-05-18 08:15:52
+NAME          : Jayson Asiado
+MOVIE         : Ticket x3 Quintessential Quintuplets: The Movie - total: 600₱
+DATE and TIME : Monday 8:00am - 10:30am
+SEAT          : A1
+SNACKS        : NONE x0 - total: 0₱
+DRINKS        : NONE x0 - total: 0₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 600₱
+CASH          : 3,231₱
+CHANGE        : 2,631₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
+------------------RECEIPT ID NO. 883411021------------------
+                            Date: 2023-05-18 08:16:41
+NAME          : Fsd
+MOVIE         : Ticket x1 Jujutsu Kaisen 0: The Movie - total: 240₱
+DATE and TIME : Monday 8:00am - 10:30am
+SEAT          : A1
+SNACKS        : NONE x0 - total: 0₱
+DRINKS        : NONE x0 - total: 0₱
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOTAL         : 240₱
+CASH          : 300₱
+CHANGE        : 60₱
+------------------THANK YOU AND ENJOY THE SHOW!!------------------
+
